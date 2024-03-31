@@ -12,7 +12,7 @@
 <a href="https://twitter.com/shubhraj94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhraj94" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mr-shubham-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-shubham-rajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shu8hamrajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shu8hamrajput" height="30" width="40" /></a>
-<a href="/https://engineering.mataroa.blog/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://engineering.mataroa.blog/rss/" height="30" width="40" /></a>
+<a href="https://engineering.mataroa.blog/rss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://engineering.mataroa.blog/rss/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
