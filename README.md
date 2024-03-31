@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Singh Rajput</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A Software engineer from India</h3>
 
 - 📝 I regularly write articles on [engineering.mataroa.blog](https://engineering.mataroa.blog/)
 
